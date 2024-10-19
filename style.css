@@ -1,0 +1,42 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body{
+    text-align: center;   
+    background-color:lightgreen;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+#active {
+    background-color: black;
+}
+
+#btn0 {
+    background-color: aqua;
+}
+
+#btn1 {
+    background-color: red;
+}
+
+#btn2 {
+    background-color: yellow;
+}
+
+#btn3{
+    background-color: purple;
+}
